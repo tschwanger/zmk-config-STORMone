@@ -3,4 +3,4 @@ if SHIELD_CORNE_LEFT
 config ZMK_KEYBOARD_NAME
     default "STORMone"
 
-end if
+endif
