@@ -1,6 +1,6 @@
 if SHIELD_STORMONE
 
 config ZMK_KEYBOARD_NAME
-    default "stormone"
+    default "STORMone"
 
 endif
